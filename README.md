@@ -1,2 +1,5 @@
-# TestCase_WebAPI_Net6
+# TestCase WebAPI Net6
  
+ ```sh
+docker compose -f "docker-compose.yml" up -d --build
+```
