@@ -214,7 +214,7 @@
           }
         }
       },
-      "Microsoft.Extensions.Caching.StackExchangeRedis/6.0.3": {
+      "Microsoft.Extensions.Caching.StackExchangeRedis/6.0.10": {
         "dependencies": {
           "Microsoft.Extensions.Caching.Abstractions": "6.0.0",
           "Microsoft.Extensions.Options": "6.0.0",
@@ -222,8 +222,8 @@
         },
         "runtime": {
           "lib/net6.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll": {
-            "assemblyVersion": "6.0.3.0",
-            "fileVersion": "6.0.322.12401"
+            "assemblyVersion": "6.0.10.0",
+            "fileVersion": "6.0.1022.47617"
           }
         }
       },
@@ -853,7 +853,7 @@
       "Infrastructure/1.0.0": {
         "dependencies": {
           "Application": "1.0.0",
-          "Microsoft.Extensions.Caching.StackExchangeRedis": "6.0.3"
+          "Microsoft.Extensions.Caching.StackExchangeRedis": "6.0.10"
         },
         "runtime": {
           "Infrastructure.dll": {}
@@ -1025,12 +1025,12 @@
       "path": "microsoft.extensions.caching.memory/6.0.1",
       "hashPath": "microsoft.extensions.caching.memory.6.0.1.nupkg.sha512"
     },
-    "Microsoft.Extensions.Caching.StackExchangeRedis/6.0.3": {
+    "Microsoft.Extensions.Caching.StackExchangeRedis/6.0.10": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-kqMJ+kLoSMk2EJe5u+4QQSv7m9cCllcJ+4bjvwfR4cjro3rfAXHIsah/87pedAvdUFk9iMYLl8RYf/uSUEkH2g==",
-      "path": "microsoft.extensions.caching.stackexchangeredis/6.0.3",
-      "hashPath": "microsoft.extensions.caching.stackexchangeredis.6.0.3.nupkg.sha512"
+      "sha512": "sha512-DJMLQOMUWToa8op6Y+fMqHQK+aHLItof7G48xASkX9w/lNWzbYhrrDgBUUMNLuR/pMy1iqZi5WbbkPpTvd1Myg==",
+      "path": "microsoft.extensions.caching.stackexchangeredis/6.0.10",
+      "hashPath": "microsoft.extensions.caching.stackexchangeredis.6.0.10.nupkg.sha512"
     },
     "Microsoft.Extensions.Configuration/2.0.0": {
       "type": "package",

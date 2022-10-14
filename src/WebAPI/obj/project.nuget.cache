@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MdtkFJmPEB2q78qlX9HbfJbz/RZ3aLZ9WLSLUhax/xen0VRBsf3/fLLjDxLMWse3todqDQ/tIMoRoEr13LKjWA==",
+  "dgSpecHash": "KC21mYWCY86z4yC8d4lhJTQmFxdQRHrw7EDNNc8OvRAkMDtwRWXycpvooVpzSMo+7LhppzHwuJZ1XPBUaG+mfQ==",
   "success": true,
   "projectFilePath": "E:\\Users\\ogulc\\Desktop\\TestCase_WebAPI_Net6\\src\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
@@ -25,7 +25,7 @@
     "C:\\Users\\ogulc\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\ogulc\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\ogulc\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
-    "C:\\Users\\ogulc\\.nuget\\packages\\microsoft.extensions.caching.stackexchangeredis\\6.0.3\\microsoft.extensions.caching.stackexchangeredis.6.0.3.nupkg.sha512",
+    "C:\\Users\\ogulc\\.nuget\\packages\\microsoft.extensions.caching.stackexchangeredis\\6.0.10\\microsoft.extensions.caching.stackexchangeredis.6.0.10.nupkg.sha512",
     "C:\\Users\\ogulc\\.nuget\\packages\\microsoft.extensions.configuration\\2.0.0\\microsoft.extensions.configuration.2.0.0.nupkg.sha512",
     "C:\\Users\\ogulc\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\ogulc\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.0.0\\microsoft.extensions.configuration.binder.2.0.0.nupkg.sha512",

@@ -3,6 +3,7 @@ using Infrastructure;
 using Microsoft.EntityFrameworkCore;
 using Persistence;
 using Persistence.Context;
+using RabbitMQ.Client;
 using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -17,13 +18,14 @@ builder.Services.AddApplicationServices(builder.Configuration);
 builder.Services.AddPersistenceServices(builder.Configuration);
 builder.Services.AddInfrastructureServices(builder.Configuration);
 
+builder.Services.AddSingleton(sp => new ConnectionFactory() { HostName = builder.Configuration.GetConnectionString("RabbitMQ") });
+
 var logConnectionString = builder.Configuration.GetConnectionString("MySQLConnection");
 
 Log.Logger = new LoggerConfiguration()
     .Enrich.FromLogContext()
     .WriteTo.MySQL(connectionString: logConnectionString, tableName: "Log")
     .CreateLogger();
-
 
 //*********************************************************************
 

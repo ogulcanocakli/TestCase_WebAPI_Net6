@@ -1,8 +1,7 @@
-﻿using Application.Dtos;
+﻿using Application;
+using Application.Dtos;
 using Application.Handlers.Products;
-using Application;
 using MediatR;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace WebAPI.Controllers
@@ -17,7 +16,7 @@ namespace WebAPI.Controllers
         {
             _mediator = mediator;
         }
-        
+
         [HttpGet]
         public async Task<ApiResponse<List<ProductDto>>> GetProducts([FromQuery] string? category = "")
         {

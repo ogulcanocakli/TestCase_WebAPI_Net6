@@ -314,7 +314,7 @@
           }
         }
       },
-      "Microsoft.Extensions.Caching.StackExchangeRedis/6.0.3": {
+      "Microsoft.Extensions.Caching.StackExchangeRedis/6.0.10": {
         "type": "package",
         "dependencies": {
           "Microsoft.Extensions.Caching.Abstractions": "6.0.0",
@@ -1517,7 +1517,7 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Application": "1.0.0",
-          "Microsoft.Extensions.Caching.StackExchangeRedis": "6.0.3"
+          "Microsoft.Extensions.Caching.StackExchangeRedis": "6.0.10"
         },
         "compile": {
           "bin/placeholder/Infrastructure.dll": {}
@@ -2169,10 +2169,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.Caching.StackExchangeRedis/6.0.3": {
-      "sha512": "kqMJ+kLoSMk2EJe5u+4QQSv7m9cCllcJ+4bjvwfR4cjro3rfAXHIsah/87pedAvdUFk9iMYLl8RYf/uSUEkH2g==",
+    "Microsoft.Extensions.Caching.StackExchangeRedis/6.0.10": {
+      "sha512": "DJMLQOMUWToa8op6Y+fMqHQK+aHLItof7G48xASkX9w/lNWzbYhrrDgBUUMNLuR/pMy1iqZi5WbbkPpTvd1Myg==",
       "type": "package",
-      "path": "microsoft.extensions.caching.stackexchangeredis/6.0.3",
+      "path": "microsoft.extensions.caching.stackexchangeredis/6.0.10",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2184,7 +2184,7 @@
         "lib/net6.0/Microsoft.Extensions.Caching.StackExchangeRedis.xml",
         "lib/netstandard2.0/Microsoft.Extensions.Caching.StackExchangeRedis.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Caching.StackExchangeRedis.xml",
-        "microsoft.extensions.caching.stackexchangeredis.6.0.3.nupkg.sha512",
+        "microsoft.extensions.caching.stackexchangeredis.6.0.10.nupkg.sha512",
         "microsoft.extensions.caching.stackexchangeredis.nuspec"
       ]
     },

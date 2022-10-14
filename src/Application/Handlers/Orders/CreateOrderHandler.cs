@@ -19,14 +19,12 @@ namespace Application.Handlers.Orders
         private ConnectionFactory _connectionFactory;
         private IConnection _connection;
         private IModel _channel;
-
-        private IConfiguration _configuration;
-
-        public CreateOrderHandler(IOrderRepository orderRepository, IUnitOfWork unitOfWork, IConfiguration configuration)
+        
+        public CreateOrderHandler(IOrderRepository orderRepository, IUnitOfWork unitOfWork, ConnectionFactory connectionFactory)
         {
+            _connectionFactory = connectionFactory;
             _orderRepository = orderRepository;
             _unitOfWork = unitOfWork;
-            _configuration = configuration;
         }
 
         public async Task<ApiResponse<int>> Handle(CreateOrder request, CancellationToken cancellationToken)
@@ -54,7 +52,6 @@ namespace Application.Handlers.Orders
 
             //*********************************************************************** RabbitMQ
 
-            _connectionFactory = new ConnectionFactory { HostName = _configuration.GetConnectionString("RabbitMQ") };
             _connection = _connectionFactory.CreateConnection();
             _channel = _connection.CreateModel();
 

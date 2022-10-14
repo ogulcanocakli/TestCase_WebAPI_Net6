@@ -8,24 +8,25 @@ namespace MailSenderBackgroundService
 {
     public class Worker : BackgroundService
     {
-        private readonly ILogger<Worker> _logger;
         private ConnectionFactory _connectionFactory;
+        private readonly ILogger<Worker> _logger;
         private IConnection _connection;
         private IModel _channel;
 
-        private readonly IConfiguration _configuration;
 
-        public Worker(ILogger<Worker> logger, IConfiguration configuration)
+        public Worker(ILogger<Worker> logger, ConnectionFactory connectionFactory)
         {
+            _connectionFactory = connectionFactory;
             _logger = logger;
-            _configuration = configuration;
         }
 
         public override Task StartAsync(CancellationToken cancellationToken)
         {
-            _connectionFactory = new ConnectionFactory { HostName = _configuration.GetConnectionString("RabbitMQ") };
+            System.Threading.Thread.Sleep(10000);
+
             _connection = _connectionFactory.CreateConnection();
             _channel = _connection.CreateModel();
+
             _logger.LogInformation($"Queue [{QueueNames.EmailQueue}] is waiting for messages.");
 
             return base.StartAsync(cancellationToken);
@@ -33,14 +34,14 @@ namespace MailSenderBackgroundService
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
-            System.Threading.Thread.Sleep(5000); //Exchange ve Queue Oluşturulması İçin Bekleme Süresi
-
             _channel.ExchangeDeclare(exchange: QueueNames.ExchangeName, type: ExchangeType.Topic, durable: true);
             _channel.QueueDeclare(queue: QueueNames.EmailQueue, durable: true, autoDelete: false, exclusive: false);
             _channel.QueueBind(queue: QueueNames.EmailQueue, exchange: QueueNames.ExchangeName, routingKey: QueueNames.ExchangeRoutingKey);
 
-            // listen to the RabbitMQ messages, and send emails
+            // RabbitMQ'den mesaj almak için bir EventConsumer oluşturuyoruz.
             var consumer = new EventingBasicConsumer(_channel);
+
+            // Mesaj geldiğinde çalışacak olan fonksiyonu tanımlıyoruz.
             consumer.Received += (model, ea) =>
             {
                 var body = ea.Body.ToArray();
