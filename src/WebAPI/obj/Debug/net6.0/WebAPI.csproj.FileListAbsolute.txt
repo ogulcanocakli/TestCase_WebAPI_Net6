@@ -1,0 +1,355 @@
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\appsettings.json
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\WebAPI.exe
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\WebAPI.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\obj\Debug\net6.0\WebAPI.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\AutoMapper.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Serilog.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Serilog.AspNetCore.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Serilog.Sinks.File.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Application.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Domain.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Application.pdb
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Domain.pdb
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Humanizer.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Bogus.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\MySqlConnector.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Persistence.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Persistence.pdb
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\MediatR.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Google.Protobuf.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\MySql.Data.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\ZstdNet.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Serilog.Sinks.MySQL.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Infrastructure.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\Infrastructure.pdb
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\RabbitMQ.Client.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\CreateEvent.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\WebAPI\bin\Debug\net6.0\CreateEvent.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\appsettings.json
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\WebAPI.exe
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\WebAPI.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\AutoMapper.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Bogus.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Google.Protobuf.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Humanizer.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\MediatR.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\MySql.Data.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\ZstdNet.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\MySqlConnector.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\RabbitMQ.Client.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Serilog.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Serilog.AspNetCore.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Serilog.Sinks.File.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Serilog.Sinks.MySQL.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Application.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\CreateEvent.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Domain.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Infrastructure.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Persistence.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Application.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Infrastructure.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Persistence.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\CreateEvent.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\Domain.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\obj\Debug\net6.0\WebAPI.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\appsettings.json
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\WebAPI.exe
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\WebAPI.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\AutoMapper.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Bogus.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Google.Protobuf.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Humanizer.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\MediatR.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\MySql.Data.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\ZstdNet.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\MySqlConnector.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\RabbitMQ.Client.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Serilog.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Serilog.AspNetCore.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Serilog.Sinks.File.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Serilog.Sinks.MySQL.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Application.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\CreateEvent.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Domain.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Infrastructure.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Persistence.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Application.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Infrastructure.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Persistence.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\CreateEvent.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\bin\Debug\net6.0\Domain.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\obj\Debug\net6.0\WebAPI.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+E:\Users\ogulc\Desktop\TestCase Net6\src\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\RabbitMQService.dll
+E:\Users\ogulc\Desktop\TestCase Net6\WebAPI\bin\Debug\net6.0\RabbitMQService.pdb
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\appsettings.json
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\WebAPI.exe
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\WebAPI.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\AutoMapper.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Bogus.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Google.Protobuf.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Humanizer.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\MediatR.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\MediatR.Contracts.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\MySql.Data.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\ZstdNet.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\MySqlConnector.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\RabbitMQ.Client.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Serilog.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Serilog.AspNetCore.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Serilog.Sinks.File.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Serilog.Sinks.MySQL.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Application.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\CreateEvent.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Domain.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Infrastructure.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Persistence.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Application.pdb
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Infrastructure.pdb
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Persistence.pdb
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\CreateEvent.pdb
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Domain.pdb
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\obj\Debug\net6.0\WebAPI.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll

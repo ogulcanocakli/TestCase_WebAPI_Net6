@@ -1,0 +1,84 @@
+E:\Users\ogulc\Desktop\TestCaseNet6\Persistence\bin\Debug\net6.0\Persistence.deps.json
+E:\Users\ogulc\Desktop\TestCaseNet6\Persistence\bin\Debug\net6.0\Persistence.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\Persistence\bin\Debug\net6.0\Persistence.pdb
+E:\Users\ogulc\Desktop\TestCaseNet6\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+E:\Users\ogulc\Desktop\TestCaseNet6\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ogulc\Desktop\TestCaseNet6\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+E:\Users\ogulc\Desktop\TestCaseNet6\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+E:\Users\ogulc\Desktop\TestCaseNet6\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+E:\Users\ogulc\Desktop\TestCaseNet6\Persistence\obj\Debug\net6.0\Persistence.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\Persistence\obj\Debug\net6.0\Persistence.pdb
+E:\Users\ogulc\Desktop\TestCaseNet6\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
+E:\Users\ogulc\Desktop\TestCaseNet6\Persistence\bin\Debug\net6.0\Application.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\Persistence\bin\Debug\net6.0\Domain.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\Persistence\bin\Debug\net6.0\Application.pdb
+E:\Users\ogulc\Desktop\TestCaseNet6\Persistence\bin\Debug\net6.0\Domain.pdb
+E:\Users\ogulc\Desktop\TestCaseNet6\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+E:\Users\ogulc\Desktop\TestCaseNet6\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
+E:\Users\ogulc\Desktop\TestCaseNet6\Persistence\bin\Debug\net6.0\CreateEvent.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\Persistence\bin\Debug\net6.0\CreateEvent.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\Persistence\bin\Debug\net6.0\Persistence.deps.json
+E:\Users\ogulc\Desktop\TestCase Net6\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
+E:\Users\ogulc\Desktop\TestCase Net6\Persistence\bin\Debug\net6.0\Persistence.dll
+E:\Users\ogulc\Desktop\TestCase Net6\Persistence\bin\Debug\net6.0\Persistence.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\Persistence\bin\Debug\net6.0\Application.dll
+E:\Users\ogulc\Desktop\TestCase Net6\Persistence\bin\Debug\net6.0\CreateEvent.dll
+E:\Users\ogulc\Desktop\TestCase Net6\Persistence\bin\Debug\net6.0\Domain.dll
+E:\Users\ogulc\Desktop\TestCase Net6\Persistence\bin\Debug\net6.0\Application.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\Persistence\bin\Debug\net6.0\Domain.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\Persistence\bin\Debug\net6.0\CreateEvent.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+E:\Users\ogulc\Desktop\TestCase Net6\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ogulc\Desktop\TestCase Net6\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+E:\Users\ogulc\Desktop\TestCase Net6\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+E:\Users\ogulc\Desktop\TestCase Net6\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+E:\Users\ogulc\Desktop\TestCase Net6\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+E:\Users\ogulc\Desktop\TestCase Net6\Persistence\obj\Debug\net6.0\Persistence.dll
+E:\Users\ogulc\Desktop\TestCase Net6\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+E:\Users\ogulc\Desktop\TestCase Net6\Persistence\obj\Debug\net6.0\Persistence.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
+E:\Users\ogulc\Desktop\TestCase Net6\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\Persistence\bin\Debug\net6.0\Persistence.deps.json
+E:\Users\ogulc\Desktop\TestCase Net6\src\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
+E:\Users\ogulc\Desktop\TestCase Net6\src\Persistence\bin\Debug\net6.0\Persistence.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\Persistence\bin\Debug\net6.0\Persistence.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\src\Persistence\bin\Debug\net6.0\Application.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\Persistence\bin\Debug\net6.0\CreateEvent.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\Persistence\bin\Debug\net6.0\Domain.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\Persistence\bin\Debug\net6.0\Application.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\src\Persistence\bin\Debug\net6.0\Domain.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\src\Persistence\bin\Debug\net6.0\CreateEvent.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\src\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+E:\Users\ogulc\Desktop\TestCase Net6\src\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ogulc\Desktop\TestCase Net6\src\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+E:\Users\ogulc\Desktop\TestCase Net6\src\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+E:\Users\ogulc\Desktop\TestCase Net6\src\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+E:\Users\ogulc\Desktop\TestCase Net6\src\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+E:\Users\ogulc\Desktop\TestCase Net6\src\Persistence\obj\Debug\net6.0\Persistence.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\Persistence\obj\Debug\net6.0\Persistence.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\src\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
+E:\Users\ogulc\Desktop\TestCase Net6\src\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Persistence\bin\Debug\net6.0\Persistence.deps.json
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Persistence\bin\Debug\net6.0\Persistence.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Persistence\bin\Debug\net6.0\Persistence.pdb
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Persistence\bin\Debug\net6.0\Application.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Persistence\bin\Debug\net6.0\CreateEvent.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Persistence\bin\Debug\net6.0\Domain.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Persistence\bin\Debug\net6.0\Application.pdb
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Persistence\bin\Debug\net6.0\Domain.pdb
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Persistence\bin\Debug\net6.0\CreateEvent.pdb
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Persistence\obj\Debug\net6.0\Persistence.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Persistence\obj\Debug\net6.0\Persistence.pdb
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Persistence\obj\Debug\net6.0\ref\Persistence.dll

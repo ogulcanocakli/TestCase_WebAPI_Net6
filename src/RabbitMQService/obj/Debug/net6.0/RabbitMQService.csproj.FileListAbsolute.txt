@@ -1,0 +1,30 @@
+E:\Users\ogulc\Desktop\TestCase Net6\RabbitMQService\bin\Debug\net6.0\RabbitMQService.deps.json
+E:\Users\ogulc\Desktop\TestCase Net6\RabbitMQService\bin\Debug\net6.0\RabbitMQService.dll
+E:\Users\ogulc\Desktop\TestCase Net6\RabbitMQService\bin\Debug\net6.0\RabbitMQService.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\RabbitMQService\bin\Debug\net6.0\CreateEvent.dll
+E:\Users\ogulc\Desktop\TestCase Net6\RabbitMQService\bin\Debug\net6.0\CreateEvent.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\RabbitMQService\obj\Debug\net6.0\RabbitMQService.csproj.AssemblyReference.cache
+E:\Users\ogulc\Desktop\TestCase Net6\RabbitMQService\obj\Debug\net6.0\RabbitMQService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ogulc\Desktop\TestCase Net6\RabbitMQService\obj\Debug\net6.0\RabbitMQService.AssemblyInfoInputs.cache
+E:\Users\ogulc\Desktop\TestCase Net6\RabbitMQService\obj\Debug\net6.0\RabbitMQService.AssemblyInfo.cs
+E:\Users\ogulc\Desktop\TestCase Net6\RabbitMQService\obj\Debug\net6.0\RabbitMQService.csproj.CoreCompileInputs.cache
+E:\Users\ogulc\Desktop\TestCase Net6\RabbitMQService\obj\Debug\net6.0\RabbitMQService.csproj.CopyComplete
+E:\Users\ogulc\Desktop\TestCase Net6\RabbitMQService\obj\Debug\net6.0\RabbitMQService.dll
+E:\Users\ogulc\Desktop\TestCase Net6\RabbitMQService\obj\Debug\net6.0\refint\RabbitMQService.dll
+E:\Users\ogulc\Desktop\TestCase Net6\RabbitMQService\obj\Debug\net6.0\RabbitMQService.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\RabbitMQService\obj\Debug\net6.0\ref\RabbitMQService.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\RabbitMQService\bin\Debug\net6.0\RabbitMQService.deps.json
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\RabbitMQService\bin\Debug\net6.0\RabbitMQService.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\RabbitMQService\bin\Debug\net6.0\RabbitMQService.pdb
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\RabbitMQService\bin\Debug\net6.0\CreateEvent.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\RabbitMQService\bin\Debug\net6.0\CreateEvent.pdb
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\RabbitMQService\obj\Debug\net6.0\RabbitMQService.csproj.AssemblyReference.cache
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\RabbitMQService\obj\Debug\net6.0\RabbitMQService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\RabbitMQService\obj\Debug\net6.0\RabbitMQService.AssemblyInfoInputs.cache
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\RabbitMQService\obj\Debug\net6.0\RabbitMQService.AssemblyInfo.cs
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\RabbitMQService\obj\Debug\net6.0\RabbitMQService.csproj.CoreCompileInputs.cache
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\RabbitMQService\obj\Debug\net6.0\RabbitMQService.csproj.CopyComplete
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\RabbitMQService\obj\Debug\net6.0\RabbitMQService.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\RabbitMQService\obj\Debug\net6.0\refint\RabbitMQService.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\RabbitMQService\obj\Debug\net6.0\RabbitMQService.pdb
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\RabbitMQService\obj\Debug\net6.0\ref\RabbitMQService.dll

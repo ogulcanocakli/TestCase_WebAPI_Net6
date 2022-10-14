@@ -1,0 +1,153 @@
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\appsettings.Development.json
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\appsettings.json
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\MailSenderBackgroundService.exe
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\MailSenderBackgroundService.deps.json
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\MailSenderBackgroundService.runtimeconfig.json
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\MailSenderBackgroundService.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\MailSenderBackgroundService.pdb
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\RabbitMQ.Client.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\CreateEvent.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\CreateEvent.pdb
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.csproj.AssemblyReference.cache
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.AssemblyInfoInputs.cache
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.AssemblyInfo.cs
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.csproj.CoreCompileInputs.cache
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.csproj.CopyComplete
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\obj\Debug\net6.0\refint\MailSenderBackgroundService.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.pdb
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.genruntimeconfig.cache
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\obj\Debug\net6.0\ref\MailSenderBackgroundService.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\MailSenderBackgroundService\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\appsettings.Development.json
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\appsettings.json
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\MailSenderBackgroundService.exe
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\MailSenderBackgroundService.deps.json
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\MailSenderBackgroundService.runtimeconfig.json
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\MailSenderBackgroundService.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\MailSenderBackgroundService.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\RabbitMQ.Client.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\CreateEvent.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\bin\Debug\net6.0\CreateEvent.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.csproj.AssemblyReference.cache
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.AssemblyInfoInputs.cache
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.AssemblyInfo.cs
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.csproj.CoreCompileInputs.cache
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.csproj.CopyComplete
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\obj\Debug\net6.0\refint\MailSenderBackgroundService.dll
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.genruntimeconfig.cache
+E:\Users\ogulc\Desktop\TestCase Net6\MailSenderBackgroundService\obj\Debug\net6.0\ref\MailSenderBackgroundService.dll
+E:\Users\ogulc\Desktop\TestCase Net6\Services\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.dll
+E:\Users\ogulc\Desktop\TestCase Net6\Services\MailSenderBackgroundService\obj\Debug\net6.0\refint\MailSenderBackgroundService.dll
+E:\Users\ogulc\Desktop\TestCase Net6\Services\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.pdb
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\obj\Debug\net6.0\refint\MailSenderBackgroundService.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.pdb
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\appsettings.Development.json
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\appsettings.json
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\MailSenderBackgroundService.exe
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\MailSenderBackgroundService.deps.json
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\MailSenderBackgroundService.runtimeconfig.json
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\MailSenderBackgroundService.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\MailSenderBackgroundService.pdb
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\RabbitMQ.Client.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\CreateEvent.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\bin\Debug\net6.0\CreateEvent.pdb
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.csproj.AssemblyReference.cache
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.AssemblyInfoInputs.cache
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.AssemblyInfo.cs
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.csproj.CoreCompileInputs.cache
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.csproj.CopyComplete
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\obj\Debug\net6.0\MailSenderBackgroundService.genruntimeconfig.cache
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\MailSenderBackgroundService\obj\Debug\net6.0\ref\MailSenderBackgroundService.dll

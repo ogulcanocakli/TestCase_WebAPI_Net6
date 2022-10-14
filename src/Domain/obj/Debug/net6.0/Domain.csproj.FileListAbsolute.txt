@@ -1,0 +1,48 @@
+E:\Users\ogulc\Desktop\TestCaseNet6\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\Users\ogulc\Desktop\TestCaseNet6\Domain\bin\Debug\net6.0\Domain.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\Domain\bin\Debug\net6.0\Domain.pdb
+E:\Users\ogulc\Desktop\TestCaseNet6\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\Users\ogulc\Desktop\TestCaseNet6\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ogulc\Desktop\TestCaseNet6\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\Users\ogulc\Desktop\TestCaseNet6\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\Users\ogulc\Desktop\TestCaseNet6\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\Users\ogulc\Desktop\TestCaseNet6\Domain\obj\Debug\net6.0\Domain.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\Domain\obj\Debug\net6.0\Domain.pdb
+E:\Users\ogulc\Desktop\TestCaseNet6\Domain\obj\Debug\net6.0\ref\Domain.dll
+E:\Users\ogulc\Desktop\TestCase Net6\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\Users\ogulc\Desktop\TestCase Net6\Domain\bin\Debug\net6.0\Domain.dll
+E:\Users\ogulc\Desktop\TestCase Net6\Domain\bin\Debug\net6.0\Domain.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\Users\ogulc\Desktop\TestCase Net6\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ogulc\Desktop\TestCase Net6\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\Users\ogulc\Desktop\TestCase Net6\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\Users\ogulc\Desktop\TestCase Net6\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\Users\ogulc\Desktop\TestCase Net6\Domain\obj\Debug\net6.0\Domain.dll
+E:\Users\ogulc\Desktop\TestCase Net6\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\Users\ogulc\Desktop\TestCase Net6\Domain\obj\Debug\net6.0\Domain.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\Domain\obj\Debug\net6.0\ref\Domain.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\Users\ogulc\Desktop\TestCase Net6\src\Domain\bin\Debug\net6.0\Domain.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\Domain\bin\Debug\net6.0\Domain.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\src\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\Users\ogulc\Desktop\TestCase Net6\src\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ogulc\Desktop\TestCase Net6\src\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\Users\ogulc\Desktop\TestCase Net6\src\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\Users\ogulc\Desktop\TestCase Net6\src\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\Users\ogulc\Desktop\TestCase Net6\src\Domain\obj\Debug\net6.0\Domain.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\Domain\obj\Debug\net6.0\Domain.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\src\Domain\obj\Debug\net6.0\ref\Domain.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Domain\bin\Debug\net6.0\Domain.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Domain\bin\Debug\net6.0\Domain.pdb
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Domain\obj\Debug\net6.0\Domain.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Domain\obj\Debug\net6.0\Domain.pdb
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Domain\obj\Debug\net6.0\ref\Domain.dll

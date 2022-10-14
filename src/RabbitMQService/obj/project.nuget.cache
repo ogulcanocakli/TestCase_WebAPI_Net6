@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yKws8B8Hvv4cNFFwEN1Kz2zM7emv6imFLV4h7fG77bsP5T4FQ0juUeiFFTWeVoC7n3ZaoVdneqDuA876NChxAQ==",
+  "success": true,
+  "projectFilePath": "E:\\Users\\ogulc\\Desktop\\TestCase_WebAPI_Net6\\src\\RabbitMQService\\RabbitMQService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ogulc\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\ogulc\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\ogulc\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

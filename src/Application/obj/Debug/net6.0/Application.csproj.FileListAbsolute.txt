@@ -1,0 +1,68 @@
+E:\Users\ogulc\Desktop\TestCaseNet6\Application\bin\Debug\net6.0\Application.deps.json
+E:\Users\ogulc\Desktop\TestCaseNet6\Application\bin\Debug\net6.0\Application.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\Application\bin\Debug\net6.0\Application.pdb
+E:\Users\ogulc\Desktop\TestCaseNet6\Application\bin\Debug\net6.0\Domain.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\Application\bin\Debug\net6.0\Domain.pdb
+E:\Users\ogulc\Desktop\TestCaseNet6\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+E:\Users\ogulc\Desktop\TestCaseNet6\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ogulc\Desktop\TestCaseNet6\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+E:\Users\ogulc\Desktop\TestCaseNet6\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+E:\Users\ogulc\Desktop\TestCaseNet6\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+E:\Users\ogulc\Desktop\TestCaseNet6\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+E:\Users\ogulc\Desktop\TestCaseNet6\Application\obj\Debug\net6.0\Application.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\Application\obj\Debug\net6.0\refint\Application.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\Application\obj\Debug\net6.0\Application.pdb
+E:\Users\ogulc\Desktop\TestCaseNet6\Application\obj\Debug\net6.0\ref\Application.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\Application\bin\Debug\net6.0\CreateEvent.dll
+E:\Users\ogulc\Desktop\TestCaseNet6\Application\bin\Debug\net6.0\CreateEvent.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\Application\bin\Debug\net6.0\Application.deps.json
+E:\Users\ogulc\Desktop\TestCase Net6\Application\bin\Debug\net6.0\Application.dll
+E:\Users\ogulc\Desktop\TestCase Net6\Application\bin\Debug\net6.0\Application.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\Application\bin\Debug\net6.0\CreateEvent.dll
+E:\Users\ogulc\Desktop\TestCase Net6\Application\bin\Debug\net6.0\Domain.dll
+E:\Users\ogulc\Desktop\TestCase Net6\Application\bin\Debug\net6.0\CreateEvent.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\Application\bin\Debug\net6.0\Domain.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+E:\Users\ogulc\Desktop\TestCase Net6\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ogulc\Desktop\TestCase Net6\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+E:\Users\ogulc\Desktop\TestCase Net6\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+E:\Users\ogulc\Desktop\TestCase Net6\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+E:\Users\ogulc\Desktop\TestCase Net6\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+E:\Users\ogulc\Desktop\TestCase Net6\Application\obj\Debug\net6.0\Application.dll
+E:\Users\ogulc\Desktop\TestCase Net6\Application\obj\Debug\net6.0\refint\Application.dll
+E:\Users\ogulc\Desktop\TestCase Net6\Application\obj\Debug\net6.0\Application.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\Application\obj\Debug\net6.0\ref\Application.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\Application\bin\Debug\net6.0\Application.deps.json
+E:\Users\ogulc\Desktop\TestCase Net6\src\Application\bin\Debug\net6.0\Application.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\Application\bin\Debug\net6.0\Application.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\src\Application\bin\Debug\net6.0\CreateEvent.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\Application\bin\Debug\net6.0\Domain.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\Application\bin\Debug\net6.0\CreateEvent.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\src\Application\bin\Debug\net6.0\Domain.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\src\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+E:\Users\ogulc\Desktop\TestCase Net6\src\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ogulc\Desktop\TestCase Net6\src\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+E:\Users\ogulc\Desktop\TestCase Net6\src\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+E:\Users\ogulc\Desktop\TestCase Net6\src\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+E:\Users\ogulc\Desktop\TestCase Net6\src\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+E:\Users\ogulc\Desktop\TestCase Net6\src\Application\obj\Debug\net6.0\Application.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\Application\obj\Debug\net6.0\refint\Application.dll
+E:\Users\ogulc\Desktop\TestCase Net6\src\Application\obj\Debug\net6.0\Application.pdb
+E:\Users\ogulc\Desktop\TestCase Net6\src\Application\obj\Debug\net6.0\ref\Application.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Application\bin\Debug\net6.0\Application.deps.json
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Application\bin\Debug\net6.0\Application.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Application\bin\Debug\net6.0\Application.pdb
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Application\bin\Debug\net6.0\CreateEvent.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Application\bin\Debug\net6.0\Domain.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Application\bin\Debug\net6.0\CreateEvent.pdb
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Application\bin\Debug\net6.0\Domain.pdb
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Application\obj\Debug\net6.0\Application.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Application\obj\Debug\net6.0\refint\Application.dll
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Application\obj\Debug\net6.0\Application.pdb
+E:\Users\ogulc\Desktop\TestCase_WebAPI_Net6\src\Application\obj\Debug\net6.0\ref\Application.dll
